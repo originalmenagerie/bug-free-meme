@@ -1,0 +1,19 @@
+h1, h3, h6 {
+    color: blueviolet;
+}
+
+.large-text {
+    font-size: 1.5em;
+}
+
+#main-heading {
+    text-decoration: underline;
+}
+
+body {
+    background-color: teal;
+}
+
+.list {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
